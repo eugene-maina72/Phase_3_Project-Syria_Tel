@@ -80,7 +80,7 @@ Overall the main business questions to be answered are:
 * **Best model:** The best model for the business use case would be SMOTE + CV as it it is a better overall model in terms of F1 score 
 * **Next steps:** Consider trying more advanced models (e.g., Random Forest, XGBoost) and further tuning
 
-`
+```
 The contents of the repo are:
             -data
             -images
@@ -97,7 +97,7 @@ The dependencies are:
         -matplotlib
         -seaborn
         -statsmodels
-`
+```
 For more information and queries,you can contact the author:
         email: [eugenemaina72@gmail.com](mailto:eugenemaina72@gmail.com)
         Github: [eugene-maina72](https://github.com/eugene-maina72)
